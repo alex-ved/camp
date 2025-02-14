@@ -1,2 +1,3 @@
-def greet():
-    print("Hello")
+def greet(name):
+    print("Hello", name)
+    return 0
