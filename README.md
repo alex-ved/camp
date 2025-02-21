@@ -32,14 +32,13 @@
    git commit -m "Your commit message"
    ```
 
-6. **Push your changes to GitHub**
+6. **Push your branch to GitHub**
 
    ```sh
-   git push
+   git push origin <branch_name>
    ```
 
 7. **Create a Pull Request (PR) on GitHub**
-
    - Go to your repository on GitHub
    - Navigate to the "Pull Requests" tab
    - Click "New Pull Request"
